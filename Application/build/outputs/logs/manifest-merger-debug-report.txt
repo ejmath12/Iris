@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/41bf39f30de464875c5242455ae916d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c517a72f1f4479b77c3d8f8f2d60b3b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/5763938d14d850190ed5c5bb2eeee1c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/323df0bec615aa34e1f87ee403052764/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/7d0e1b8ed558110a1c49768af02ea9e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bbd228c864c57f517d492551f4f94de1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/83959d24a25d98eecfadd64d80ccf778/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7815cfa14cb96c19c5b9dae11b4ba3de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b8780e72af861ea5344d3134400eed53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/899e6ea4eee8900cf876e78c8365d977/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/008421bd27894986c15f488a02f459a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6fc78c4b1bb74cf8d0ab1bf0e40548be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b8060a03e34c681d369b5cd86952e3b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/33dad40037c36f04fc888fbe426a6720/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2f2277660e04a9617fb916c7651bed4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b9ca86ba1e3ac6daec20c0af1d3d6d33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/60380be8ff40212f01a150aec2533a8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2b806f0779027f04672b40bf6c4ad593/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2dca492cb2274cb596aeb2277bce6490/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/87b549c4e2fdd96cfca3a86e29e94873/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fb235795652b8fe615cdf5b87152e72d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/090abb4d1566819a6bf0554ee44eaf2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b867703134dbc2d6f866bb574b736410/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/04f1409f7f691ff62601d25f6267c4aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/173ff3c4f41b4a8c2adde79e42b2bf99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0a06f288e8a3c64ba2dc225fcb70cf22/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/85318e8405fd999bedfbcf1655661422/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c3a80325b9283df1023f6f1afde96e94/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1d59da1b0a988dc00808fe33d496a076/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8028b14c1c2c49ba4b7eda66e6780544/AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:19:5-47
+	xmlns:android
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2dca492cb2274cb596aeb2277bce6490/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2dca492cb2274cb596aeb2277bce6490/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/87b549c4e2fdd96cfca3a86e29e94873/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/87b549c4e2fdd96cfca3a86e29e94873/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2dca492cb2274cb596aeb2277bce6490/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:29:9-45
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:31:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/41bf39f30de464875c5242455ae916d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/41bf39f30de464875c5242455ae916d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c517a72f1f4479b77c3d8f8f2d60b3b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c517a72f1f4479b77c3d8f8f2d60b3b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/5763938d14d850190ed5c5bb2eeee1c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/5763938d14d850190ed5c5bb2eeee1c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/323df0bec615aa34e1f87ee403052764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/323df0bec615aa34e1f87ee403052764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/7d0e1b8ed558110a1c49768af02ea9e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/7d0e1b8ed558110a1c49768af02ea9e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bbd228c864c57f517d492551f4f94de1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bbd228c864c57f517d492551f4f94de1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/83959d24a25d98eecfadd64d80ccf778/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/83959d24a25d98eecfadd64d80ccf778/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7815cfa14cb96c19c5b9dae11b4ba3de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7815cfa14cb96c19c5b9dae11b4ba3de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b8780e72af861ea5344d3134400eed53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b8780e72af861ea5344d3134400eed53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/899e6ea4eee8900cf876e78c8365d977/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/899e6ea4eee8900cf876e78c8365d977/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/008421bd27894986c15f488a02f459a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/008421bd27894986c15f488a02f459a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6fc78c4b1bb74cf8d0ab1bf0e40548be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6fc78c4b1bb74cf8d0ab1bf0e40548be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b8060a03e34c681d369b5cd86952e3b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b8060a03e34c681d369b5cd86952e3b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/33dad40037c36f04fc888fbe426a6720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/33dad40037c36f04fc888fbe426a6720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2f2277660e04a9617fb916c7651bed4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2f2277660e04a9617fb916c7651bed4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b9ca86ba1e3ac6daec20c0af1d3d6d33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b9ca86ba1e3ac6daec20c0af1d3d6d33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/60380be8ff40212f01a150aec2533a8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/60380be8ff40212f01a150aec2533a8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2b806f0779027f04672b40bf6c4ad593/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2b806f0779027f04672b40bf6c4ad593/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2dca492cb2274cb596aeb2277bce6490/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2dca492cb2274cb596aeb2277bce6490/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/87b549c4e2fdd96cfca3a86e29e94873/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/87b549c4e2fdd96cfca3a86e29e94873/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fb235795652b8fe615cdf5b87152e72d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fb235795652b8fe615cdf5b87152e72d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/090abb4d1566819a6bf0554ee44eaf2b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/090abb4d1566819a6bf0554ee44eaf2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b867703134dbc2d6f866bb574b736410/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b867703134dbc2d6f866bb574b736410/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/04f1409f7f691ff62601d25f6267c4aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/04f1409f7f691ff62601d25f6267c4aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/173ff3c4f41b4a8c2adde79e42b2bf99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/173ff3c4f41b4a8c2adde79e42b2bf99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0a06f288e8a3c64ba2dc225fcb70cf22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0a06f288e8a3c64ba2dc225fcb70cf22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/85318e8405fd999bedfbcf1655661422/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/85318e8405fd999bedfbcf1655661422/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c3a80325b9283df1023f6f1afde96e94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c3a80325b9283df1023f6f1afde96e94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1d59da1b0a988dc00808fe33d496a076/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1d59da1b0a988dc00808fe33d496a076/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8028b14c1c2c49ba4b7eda66e6780544/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/eldojacob.mathews/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8028b14c1c2c49ba4b7eda66e6780544/AndroidManifest.xml:20:5-44
+INJECTED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/eldojacob.mathews/ASU/camera-samples/Camera2BasicJava/Application/src/main/AndroidManifest.xml
